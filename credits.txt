@@ -98,7 +98,7 @@ D: Contributor
 D: Group H
 
 N: Mathieu OLIVIER
-D: Contributor
+D: Contributor Test 
 D: Group G
 
 N: Carla PETRI
