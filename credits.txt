@@ -123,7 +123,7 @@ D: Group A
 
 N: Aminata SENE
 D: Contributor
-D: Group D
+D: Group B
 
 N: Amina SHANGEREYEVA
 D: Contributor
@@ -151,7 +151,7 @@ D: Group G
 
 N: Yangjiawei Xue
 D: Contributor
-D: Group C
+D: Group B
 
 N: Haotian YANG
 D: Contributor
