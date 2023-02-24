@@ -98,7 +98,7 @@ D: Contributor
 D: Group H
 
 N: Mathieu OLIVIER
-D: Contributor Test 
+D: Project Selection, Project Explanation, Slide Structuration and Creation and Presenter of a Project
 D: Group G
 
 N: Carla PETRI
