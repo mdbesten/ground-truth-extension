@@ -6,7 +6,7 @@ D: Contributor
 D: Group A
 
 N: Laetitia Assor
-D: Contributor
+D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range, Worked on badchoice/reporter project: navigated on the Github and found answers to questions related to history, and contibutors; produced first draft of powerpoint with Aizhan and Léa
 D: Group F
 
 N: Naomie ASSOUS
@@ -138,7 +138,7 @@ D: Contributor
 D: Group F
 
 N: Léa Viala
-D: Contributor
+D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range. Worked on badchoice/reporter project: answered on the questions related to the reasons of the project being simplicity and boring; produced first draft of powerpoint with Laetitia and Aizhan
 D: Group F
 
 N: Chen WANG
@@ -158,8 +158,8 @@ D: Contributor
 D: Group B
 
 N: Aizhan Zhakupova
-D: Contributor
-D: Group D
+D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range. Worked on badchoice/reporter project: found answers to questions related to governance, and contibutors; produced first draft of powerpoint with Laetitia and Léa
+D: Group F
 
 N: Wanyu ZHANG
 D: Contributor
