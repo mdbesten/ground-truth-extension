@@ -74,7 +74,7 @@ D: Finding the project + "evolution and governance" parts of the presentation
 D: Group C
 
 N: Cedric Lion
-D: Contributor
+D: Contributor : worked on the part about governance of the project ; did some exploratory research about some other projects that we finally did not talk about (pytorch, react.js); submit pull request on github to write the different contributions
 D: Group B
 
 N: Valentin Loiret
@@ -90,7 +90,7 @@ D: Contributor
 D: Group G
 
 N: Margot Monge
-D: Contributor
+D: Contributor : worked on the part about the origin of the project and completed the associated slide
 D: Group B
 
 N: Matteo Nottaris
@@ -126,7 +126,7 @@ D: Contributor
 D: Group D
 
 N: Amina SHANGEREYEVA
-D: Contributor
+D: Contributor : Created a chat to do the work group. Researched information about Fresco. Defined why the project is sexy and complex and created slides with overview about the project and sexiness and complexness.
 D: Group B
 
 N: Anna SIMONYAN
@@ -142,7 +142,7 @@ D: Contributor: Searched for project within the scope of the simplicity and bori
 D: Group F
 
 N: Chen WANG
-D: Contributor
+D: Contributor : created a a suitable canvas ppt template for the project and worked on the part about the motivation of Fresco contributors
 D: Group B
 
 N: William WEILL
@@ -154,7 +154,7 @@ D: "People and organizations" part of the presentation
 D: Group C
 
 N: Haotian YANG
-D: Contributor
+D: Contributor : Find the topic Fresco, and review the changes in the contributor team, listing the main contributors
 D: Group B
 
 N: Aizhan Zhakupova
@@ -162,11 +162,11 @@ D: Contributor: Searched for project within the scope of the simplicity and bori
 D: Group F
 
 N: Wanyu ZHANG
-D: Contributor
+D: Contributor 
 D: Group G
 
 N: Yanming Zhang
-D: Contributor
+D: Contributor : Researched on all the versions released and summarized the updates as well as technical advantage chronologically. Assisted Margot to finish the slides about the evolution of this project.
 D: Group B
 
 N: Léa Fournier
