@@ -6,7 +6,8 @@ D: Presenter: Project selection, Presentation, Core Research
 D: Group A
 
 N: Laetitia Assor
-D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range, Worked on badchoice/reporter project: navigated on the Github and found answers to questions related to history, and contibutors; produced first draft of powerpoint with Aizhan and Léa
+D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range, 
+D: Worked on badchoice/reporter project: navigated on the Github and found answers to questions related to history, and contibutors; produced first draft of powerpoint with Aizhan and Léa
 D: Group F
 
 N: Naomie ASSOUS
@@ -54,7 +55,8 @@ D: Contributor
 D: No longer in the class
 
 N: Paul GUINARD
-D: Contributor : Introduced the presentation and participated to the research and presentation of the first project (Fast CSV) mainly on governance issue. Participated in the elaboration and shaping of the slides. 
+D: Contributor : Introduced the presentation and participated to the research and presentation of the first project (Fast CSV) mainly on governance issue. 
+D: Participated in the elaboration and shaping of the slides. 
 D: Group G
 
 N: Lou-Ann GUYOMARC'H
@@ -74,7 +76,9 @@ D: Finding the project + "evolution and governance" parts of the presentation
 D: Group C
 
 N: Cedric Lion
-D: Contributor : worked on the part about governance of the project ; did some exploratory research about some other projects that we finally did not talk about (pytorch, react.js); submit pull request on github to write the different contributions
+D: Contributor : worked on the part about governance of the project ; 
+D: did some exploratory research about some other projects that we finally did not talk about (pytorch, react.js); 
+D: submit pull request on github to write the different contributions
 D: Group B
 
 N: Valentin Loiret
@@ -126,7 +130,9 @@ D: Contributor
 D: Group D
 
 N: Amina SHANGEREYEVA
-D: Contributor : Created a chat to do the work group. Researched information about Fresco. Defined why the project is sexy and complex and created slides with overview about the project and sexiness and complexness.
+D: Contributor : Created a chat to do the work group. 
+D: Researched information about Fresco. 
+D: Defined why the project is sexy and complex and created slides with overview about the project and sexiness and complexness.
 D: Group B
 
 N: Anna SIMONYAN
@@ -138,7 +144,8 @@ D: Contributor
 D: Group F
 
 N: Léa Viala
-D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range. Worked on badchoice/reporter project: answered on the questions related to the reasons of the project being simplicity and boring; produced first draft of powerpoint with Laetitia and Aizhan
+D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range. 
+D: Worked on badchoice/reporter project: answered on the questions related to the reasons of the project being simplicity and boring; produced first draft of powerpoint with Laetitia and Aizhan
 D: Group F
 
 N: Chen WANG
@@ -158,7 +165,8 @@ D: Contributor : Find the topic Fresco, and review the changes in the contributo
 D: Group B
 
 N: Aizhan Zhakupova
-D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range. Worked on badchoice/reporter project: found answers to questions related to governance, and contibutors; produced first draft of powerpoint with Laetitia and Léa
+D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range. 
+D: Worked on badchoice/reporter project: found answers to questions related to governance, and contibutors; produced first draft of powerpoint with Laetitia and Léa
 D: Group F
 
 N: Wanyu ZHANG
