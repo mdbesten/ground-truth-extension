@@ -2,7 +2,7 @@ N: Matthijs DEN BESTEN
 D: Initiator
 
 N: Chloe ARSONNEAU
-D: Contributor
+D: Presenter: Project selection, Presentation, Core Research
 D: Group A
 
 N: Laetitia Assor
@@ -22,7 +22,7 @@ D: Contributor
 D: Group H
 
 N: Miao BI
-D: Contributor
+D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Nawel BOURMANI
@@ -42,7 +42,7 @@ D: Contributor
 D: Group H
 
 N: Marie CORTES
-D: Contributor
+D: Contributor: Project selection, Slide design, Core Research
 D: Group A
 
 N: Yasmine DOGHRI
@@ -66,7 +66,7 @@ D: "People and organizations" part of the presentation
 D: Group C
 
 N: Skander HOUISSA
-D: Contributor
+D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Karine Ismail
@@ -102,7 +102,7 @@ D: Contributor
 D: Group G
 
 N: Carla PETRI
-D: Contributor
+D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Rémy Pignel
@@ -118,7 +118,7 @@ D: Contributor
 D: No longer in the class
 
 N: Maelle SAINRIMAT
-D: Contributor
+D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Aminata SENE
