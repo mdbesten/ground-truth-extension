@@ -2,11 +2,11 @@ N: Matthijs DEN BESTEN
 D: Initiator
 
 N: Chloe ARSONNEAU
-D: Contributor
+D: Presenter: Project selection, Presentation, Core Research
 D: Group A
 
 N: Laetitia Assor
-D: Contributor
+D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range, Worked on badchoice/reporter project: navigated on the Github and found answers to questions related to history, and contibutors; produced first draft of powerpoint with Aizhan and Léa
 D: Group F
 
 N: Naomie ASSOUS
@@ -14,15 +14,15 @@ D: Contributor
 D: Group F
 
 N: Amadou BA
-D: Contributor
+D: Contributor : Helped finding the repository and organizing the overall presentation
 D: Group E
 
 N: Colomban BEDNAREK
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research, presentation 
 D: Group H
 
 N: Miao BI
-D: Contributor
+D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Nawel BOURMANI
@@ -30,71 +30,71 @@ D: Contributor
 D: Group G
 
 N: Tom Carpentier
-D: Contributor
+D: Git contributor + "why this project" part of presentation
 D: Group C
 
 N: Yichen Cheng
-D: Contributor
+D: Contributor : Helped with the presentation part
 D: Group E
 
 N: Mathilde COMTE
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research, presentation
 D: Group H
 
 N: Marie CORTES
-D: Contributor
+D: Contributor: Project selection, Slide design, Core Research
 D: Group A
 
 N: Yasmine DOGHRI
-D: Contributor
+D: Contributor : Helped with the slides and the overall aesthetic aspect
 D: Group E
 
 N: Nina-Lou FRESNIL
 D: Contributor
-D: Group E
+D: No longer in the class
 
 N: Paul GUINARD
-D: Contributor
-D: Group D
+D: Contributor : Introduced the presentation and participated to the research and presentation of the first project (Fast CSV) mainly on governance issue. Participated in the elaboration and shaping of the slides. 
+D: Group G
 
 N: Lou-Ann GUYOMARC'H
 D: Contributor
 D: Group D
 
 N: Mouad HAMDOUNE
-D: Contributor
+D: "People and organizations" part of the presentation
 D: Group C
 
 N: Skander HOUISSA
-D: Contributor
+D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Karine Ismail
-D: Contributor
+D: Finding the project + "evolution and governance" parts of the presentation
 D: Group C
 
 N: Cedric Lion
-D: Contributor
+D: Contributor : worked on the part about governance of the project ; did some exploratory research about some other projects that we finally did not talk about (pytorch, react.js); submit pull request on github to write the different contributions
 D: Group B
 
 N: Valentin Loiret
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research
 D: Group H
 
 N: Ewen MARGUET
-D: Contributor
-D: Group F
+D: Presentator : Organized the development of the project and presenting it.
+D: Group E
 
 N: Nicolas MATHIEU
 D: Contributor
 D: Group G
 
 N: Margot Monge
-D: Contributor
+D: Contributor : worked on the part about the origin of the project and completed the associated slide
 D: Group B
 
 N: Matteo Nottaris
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research, presentation
 D: Group H
 
 N: Mathieu OLIVIER
@@ -102,23 +102,23 @@ D: Project Selection, Project Explanation, Slide Structuration and Creation and 
 D: Group G
 
 N: Carla PETRI
-D: Contributor
+D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Rémy Pignel
 D: Contributor
-D: Group C
+D: No longer in the class
 
 N: Ethel PRYS
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research, presentation
 D: Group H
 
 N: Félix ROUGIER
 D: Contributor
-D: Group E
+D: No longer in the class
 
 N: Maelle SAINRIMAT
-D: Contributor
+D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Aminata SENE
@@ -126,45 +126,50 @@ D: Contributor
 D: Group D
 
 N: Amina SHANGEREYEVA
-D: Contributor
+D: Contributor : Created a chat to do the work group. Researched information about Fresco. Defined why the project is sexy and complex and created slides with overview about the project and sexiness and complexness.
 D: Group B
 
 N: Anna SIMONYAN
-D: Contributor
-D: Group D
+D: Contributor: choice of the project, presentation deck design, core research, GitHub management, presentation  
+D: Group H
 
 N: Margaux TOURNOIS
 D: Contributor
 D: Group F
 
 N: Léa Viala
-D: Contributor
+D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range. Worked on badchoice/reporter project: answered on the questions related to the reasons of the project being simplicity and boring; produced first draft of powerpoint with Laetitia and Aizhan
 D: Group F
 
 N: Chen WANG
-D: Contributor
+D: Contributor : created a a suitable canvas ppt template for the project and worked on the part about the motivation of Fresco contributors
 D: Group B
 
 N: William WEILL
-D: Contributor
+D: test
 D: Group G
 
 N: Yangjiawei Xue
-D: Contributor
+D: "People and organizations" part of the presentation
 D: Group C
 
 N: Haotian YANG
-D: Contributor
+D: Contributor : Find the topic Fresco, and review the changes in the contributor team, listing the main contributors
 D: Group B
 
 N: Aizhan Zhakupova
-D: Contributor
-D: Group D
+D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range. Worked on badchoice/reporter project: found answers to questions related to governance, and contibutors; produced first draft of powerpoint with Laetitia and Léa
+D: Group F
 
 N: Wanyu ZHANG
-D: Contributor
+D: Contributor 
 D: Group G
 
 N: Yanming Zhang
-D: Contributor
+D: Contributor : Researched on all the versions released and summarized the updates as well as technical advantage chronologically. Assisted Margot to finish the slides about the evolution of this project.
 D: Group B
+
+N: Léa Fournier
+D: Contributor : Contributed to the slides for the origin and overall aim of the project
+D: Group E
+
