@@ -14,7 +14,7 @@ D: Contributor
 D: Group F
 
 N: Amadou BA
-D: Contributor
+D: Contributor : Helped finding the repository and organizing the overall presentation
 D: Group E
 
 N: Colomban BEDNAREK
@@ -34,7 +34,7 @@ D: Contributor
 D: Group C
 
 N: Yichen Cheng
-D: Contributor
+D: Contributor : Helped with the presentation part
 D: Group E
 
 N: Mathilde COMTE
@@ -46,7 +46,7 @@ D: Contributor
 D: Group A
 
 N: Yasmine DOGHRI
-D: Contributor
+D: Contributor : Helped with the slides and the overall aesthetic aspect
 D: Group E
 
 N: Nina-Lou FRESNIL
@@ -82,7 +82,7 @@ D: Contributor
 D: Group H
 
 N: Ewen MARGUET
-D: Contributor
+D: Presentator : Organized the development of the project and presenting it.
 D: Group E
 
 N: Nicolas MATHIEU
@@ -170,5 +170,5 @@ D: Contributor
 D: Group B
 
 N: Léa Fournier
-D: Contributor
+D: Contributor : Contributed to the slides for the origin and overall aim of the project
 D: Group E
