@@ -30,7 +30,7 @@ D: Contributor
 D: Group G
 
 N: Tom Carpentier
-D: Contributor
+D: Git contributor + "why this project" part of presentation
 D: Group C
 
 N: Yichen Cheng
@@ -62,7 +62,7 @@ D: Contributor
 D: Group D
 
 N: Mouad HAMDOUNE
-D: Contributor
+D: "People and organizations" part of the presentation
 D: Group C
 
 N: Skander HOUISSA
@@ -70,7 +70,7 @@ D: Contributor
 D: Group A
 
 N: Karine Ismail
-D: Contributor
+D: Finding the project + "evolution and governance" parts of the presentation
 D: Group C
 
 N: Cedric Lion
@@ -107,7 +107,7 @@ D: Group A
 
 N: Rémy Pignel
 D: Contributor
-D: Group C
+D: No longer in the class
 
 N: Ethel PRYS
 D: Contributor
@@ -150,7 +150,7 @@ D: test
 D: Group G
 
 N: Yangjiawei Xue
-D: Contributor
+D: "People and organizations" part of the presentation
 D: Group C
 
 N: Haotian YANG
