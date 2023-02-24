@@ -2,7 +2,7 @@ N: Matthijs DEN BESTEN
 D: Initiator
 
 N: Chloe ARSONNEAU
-D: Contributor
+D: Presenter
 D: Group A
 
 N: Laetitia Assor
