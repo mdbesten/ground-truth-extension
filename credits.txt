@@ -107,7 +107,7 @@ D: Group A
 
 N: Rémy Pignel
 D: Contributor
-D: Group C
+D: No longer in the class
 
 N: Ethel PRYS
 D: Contributor
