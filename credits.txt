@@ -166,7 +166,8 @@ D: Contributor
 D: Group G
 
 N: Yanming Zhang
-D: Contributor : Researched on all the versions released and summarized the updates as well as technical advantage chronologically. Assisted Margot to finish the slides about the evolution of this project.
+D: Contributor : Researched on all the versions released and summarized the updates as well as technical advantage chronologically. 
+D: Assisted Margot to finish the slides about the evolution of this project.
 D: Group B
 
 N: Léa Fournier
