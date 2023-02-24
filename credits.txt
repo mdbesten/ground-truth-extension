@@ -98,7 +98,7 @@ D: Contributor: choice of project, presentation deck design, core research, pres
 D: Group H
 
 N: Mathieu OLIVIER
-D: Contributor
+D: Project Selection, Project Explanation, Slide Structuration and Creation and Presenter of a Project
 D: Group G
 
 N: Carla PETRI
@@ -172,3 +172,4 @@ D: Group B
 N: Léa Fournier
 D: Contributor : Contributed to the slides for the origin and overall aim of the project
 D: Group E
+
