@@ -18,7 +18,7 @@ D: Contributor
 D: Group E
 
 N: Colomban BEDNAREK
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research, presentation 
 D: Group H
 
 N: Miao BI
@@ -38,7 +38,7 @@ D: Contributor
 D: Group E
 
 N: Mathilde COMTE
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research, presentation
 D: Group H
 
 N: Marie CORTES
@@ -78,7 +78,7 @@ D: Contributor
 D: Group B
 
 N: Valentin Loiret
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research
 D: Group H
 
 N: Ewen MARGUET
@@ -94,7 +94,7 @@ D: Contributor
 D: Group B
 
 N: Matteo Nottaris
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research, presentation
 D: Group H
 
 N: Mathieu OLIVIER
@@ -110,7 +110,7 @@ D: Contributor
 D: Group C
 
 N: Ethel PRYS
-D: Contributor
+D: Contributor: choice of project, presentation deck design, core research, presentation
 D: Group H
 
 N: Félix ROUGIER
@@ -130,7 +130,7 @@ D: Contributor
 D: Group B
 
 N: Anna SIMONYAN
-D: Contributor
+D: Contributor: choice of the project, presentation deck design, core research, GitHub management, presentation  
 D: Group H
 
 N: Margaux TOURNOIS
