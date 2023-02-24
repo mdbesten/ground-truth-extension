@@ -159,7 +159,7 @@ D: Group B
 
 N: Aizhan Zhakupova
 D: Contributor
-D: Group D
+D: Group F
 
 N: Wanyu ZHANG
 D: Contributor
