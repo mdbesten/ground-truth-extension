@@ -127,7 +127,7 @@ D: Group A
 
 N: Aminata SENE
 D: Contributor
-D: Group D
+D: Group F
 
 N: Amina SHANGEREYEVA
 D: Contributor : Created a chat to do the work group. 
