@@ -126,8 +126,11 @@ D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Aminata SENE
-D: Contributor
-D: Group D
+D: Contributor : Searched and found within the scope of the simplicity and boringness over the selected range, 
+D: Group F 
+D: Contributor : Worked on badchoice/reporter project and Wearerequited navigated on the Github and found answers to questions related to reasons history, contibutors, and governance
+Add slide project  wearequired/w/o-feed-post-thumbnail and redesign the entire presentation
+
 
 N: Amina SHANGEREYEVA
 D: Contributor : Created a chat to do the work group. 
