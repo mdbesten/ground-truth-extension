@@ -31,7 +31,7 @@ D: Contributor
 D: Group G
 
 N: Tom Carpentier
-D: Git contributor + "why this project" part of presentation
+D: Contributor : Git contributor + "why this project" part of presentation and the corresponding slides
 D: Group C
 
 N: Yichen Cheng
@@ -64,7 +64,7 @@ D: Contributor
 D: Group D
 
 N: Mouad HAMDOUNE
-D: "People and organizations" part of the presentation
+D: Contributor: "People and organizations" part of the presentation and the corresponding slides
 D: Group C
 
 N: Skander HOUISSA
@@ -72,7 +72,7 @@ D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
 N: Karine Ismail
-D: Finding the project + "evolution and governance" parts of the presentation
+D: Contributor: Finding the project + "evolution and governance" parts of the presentation and the corresponding slides
 D: Group C
 
 N: Cedric Lion
@@ -160,7 +160,7 @@ D: test
 D: Group G
 
 N: Yangjiawei Xue
-D: "People and organizations" part of the presentation
+D: Contributor : in charge of "People and organizations" part of the presentation and the correponding slides
 D: Group C
 
 N: Haotian YANG
