@@ -13,6 +13,10 @@ D: Group F
 N: Naomie ASSOUS
 D: Contributor
 D: Group F
+Contributors : Searched and found within the scope of the simplicity and boringness over the selected range, 
+D: Contributor : Worked on  Wearerequited navigated on the Github and found answers to questions related to reasons contibutors, and governance
+Added slide project  wearequired/w/o-feed-post-thumbnail
+
 
 N: Amadou BA
 D: Contributor : Helped finding the repository and organizing the overall presentation
