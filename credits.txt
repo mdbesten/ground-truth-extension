@@ -54,18 +54,10 @@ N: Yasmine DOGHRI
 D: Contributor : Helped with the slides and the overall aesthetic aspect
 D: Group E
 
-N: Nina-Lou FRESNIL
-D: Contributor
-D: No longer in the class
-
 N: Paul GUINARD
 D: Contributor : Introduced the presentation and participated to the research and presentation of the first project (Fast CSV) mainly on governance issue. 
 D: Participated in the elaboration and shaping of the slides. 
 D: Group G
-
-N: Lou-Ann GUYOMARC'H
-D: Contributor
-D: Group D
 
 N: Mouad HAMDOUNE
 D: Contributor: "People and organizations" part of the presentation and the corresponding slides
@@ -113,17 +105,9 @@ N: Carla PETRI
 D: Contributor: Project selection, Slide contribution, Core Research
 D: Group A
 
-N: Rémy Pignel
-D: Contributor
-D: No longer in the class
-
 N: Ethel PRYS
 D: Contributor: choice of project, presentation deck design, core research, presentation
 D: Group H
-
-N: Félix ROUGIER
-D: Contributor
-D: No longer in the class
 
 N: Maelle SAINRIMAT
 D: Contributor: Project selection, Slide contribution, Core Research
@@ -145,10 +129,6 @@ D: Group B
 N: Anna SIMONYAN
 D: Contributor: choice of the project, presentation deck design, core research, GitHub management, presentation  
 D: Group H
-
-N: Margaux TOURNOIS
-D: Contributor
-D: Group F
 
 N: Léa Viala
 D: Contributor: Searched for project within the scope of the simplicity and boringness over the selected range. 
